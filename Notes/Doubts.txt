@@ -1,3 +1,0 @@
-FML
-what is hyper parameter tuning
-what is cross validation
